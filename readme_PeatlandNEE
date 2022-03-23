@@ -1,0 +1,21 @@
+######### Dataset containing peatland net ecosystem CO2 exchange data obtained using the eddy covariance technique #########
+############################################################################################################################
+Variable definitions:
+SITE_ID - unique identifier for each site
+LATITUDE - latitude of site
+LONGITUDE - longitude of site
+YEAR - year of measurement
+MONTH - month of measurement
+NEE - mean net ecosystem CO2 exchange [g C m-2 month-1]
+TA - air temperature measured at the site [C]
+WTD - water table depth [cm above the surface, i.e. negative values are below the surface]
+SWIN - incoming shortwave radiation  measured at the site [W m-2]
+EVI_MOD - mean MODIS enhanced vegetation index for the site pixel
+TA_CRU - air temperature from the CRU TS Version 4.05 dataset [C]
+PRE_CRU - total precipitation from the CRU TS Version 4.05 dataset [mm]
+PET_CRU - total potential evapotranspiration from the CRU TS Version 4.05 dataset [mm]
+TS_SURF - near-surface (< 10 cm) soil temperature measured at the site [C]
+TS_DEEP - deep (> 10 cm) soil temperature measured at the site [C]
+VPD - vapour pressure deficit measrued at the site [kPa]
+VPD_CRU - vapour pressure deficit from the CRU TS Version 4.05 dataset [kPa]
+SD - snow depth measured at the site [cm]
