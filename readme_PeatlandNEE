@@ -19,3 +19,6 @@ TS_DEEP - deep (> 10 cm) soil temperature measured at the site [C]
 VPD - vapour pressure deficit measrued at the site [kPa]
 VPD_CRU - vapour pressure deficit from the CRU TS Version 4.05 dataset [kPa]
 SD - snow depth measured at the site [cm]
+############################################################################################################################
+2022PeatlandNEEResp.m file contains MATLAB code to analyse air temperature and net ecosystem CO2 exchange data
+############################################################################################################################
